@@ -1,5 +1,5 @@
 public class Main{
     public static void main(String[] args){
-        System.out.print("I am updating my repo");
+        System.out.print("projectB did this");
     }
 }
